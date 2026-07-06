@@ -23,3 +23,5 @@ This repository documents my journey from writing my first line of code to becom
 - Repository Created
 - GitHub Connected
 - Learning Git Fundamentals
+
+## Tools
