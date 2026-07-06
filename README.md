@@ -25,3 +25,9 @@ This repository documents my journey from writing my first line of code to becom
 - Learning Git Fundamentals
 
 ## Tools
+
+- VS Code – Code Editor
+- Git – Version Control
+- GitHub – Repository Hosting
+- ChatGPT – Learning & Concept Clarification
+- Google – Research & Documentation
