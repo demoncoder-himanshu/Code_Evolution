@@ -29,3 +29,11 @@ int main(){
     // Ends the program and returns 0 and to indicate successful execution.
     return 0;
 }
+
+// Comments: use for display massage and also Comments are ingnored by the compiler.
+// This is single line comment
+/*
+   This is
+   Multiline
+   Comment
+*/
